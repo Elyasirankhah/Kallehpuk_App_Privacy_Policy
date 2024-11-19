@@ -1,5 +1,6 @@
 # Kallehpuk_App_Privacy_Policy
-Kallehpuk - Your Personalized AI Assistant
+#Kallehpuk - Your Personalized AI Assistant
+
 Kallehpuk is an advanced AI-powered platform that combines personalized assistant capabilities with cutting-edge EEG integration. By understanding your unique communication style and reflecting your digital persona, Kallehpuk helps you stay organized, manage tasks, and maintain meaningful connections.
 
 Key features include:
